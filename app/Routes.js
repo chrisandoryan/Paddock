@@ -11,6 +11,7 @@ export default () => (
       <Route path={routes.HOME} component={HomePage} />
       <Route path={routes.MARKING} component={CounterPage} />
       <Route path={routes.CASEMAKING} component={CounterPage} />
+      <Route path={routes.LEGALIZATION} component={CounterPage} />
     </Switch>
   </App>
 );
