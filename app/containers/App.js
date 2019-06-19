@@ -45,10 +45,13 @@ export default class App extends React.Component<Props> {
                     Home
                 </Button>
                 <Button btnStyle="flat">
-                    Devices
+                    NSFW Mode
                 </Button>
                 <Button btnStyle="flat">
-                    Reports
+                    Shortcuts
+                </Button>
+                <Button btnStyle="flat">
+                    Configuration
                 </Button>
             </ButtonGroup>
         </div>
